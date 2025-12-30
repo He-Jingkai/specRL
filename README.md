@@ -1,6 +1,6 @@
 # specRL - Speculative Decoding RL
 
-The C++ modules for specRL (Suffix Tree-based Distributed Draft Server).
+The C++ modules for specRL (Suffix Tree-based Distributed Draft Worker).
 
 ## Overview
 
